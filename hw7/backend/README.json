@@ -1,0 +1,6 @@
+{
+     "netid": "sof1",
+  "frontend": "http://guttural-plant.surge.sh/",
+   "backend": "https://ricebookappsof1.herokuapp.com",
+   "note":"I am not sure how you will be able to connect to the database without knowing my login info in the .env file"
+}
